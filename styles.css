@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+#main {
+  font-family: "Kanit", sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  border-radius: 2%;
+  border: 10px solid #79b1ff;
+  box-shadow: 10px 10px 15px 0px rgba(11, 96, 181, 0.75);
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+}
+
+#img-caption {
+  display: inline;
+  text-align: center;
+  color: #03060a;
+}
+
+h2,
+h1 {
+  color: #053c89;
+}
+#tribute-link {
+  background-color: #185bb8;
+  color: rgb(255, 255, 255);
+  padding: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+}
